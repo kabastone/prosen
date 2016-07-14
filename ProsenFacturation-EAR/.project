@@ -3,7 +3,6 @@
 	<name>ProsenFacturation-EAR</name>
 	<comment></comment>
 	<projects>
-		<project>ProsenFacturation</project>
 		<project>ProsenFacturation-EJB</project>
 	</projects>
 	<buildSpec>
